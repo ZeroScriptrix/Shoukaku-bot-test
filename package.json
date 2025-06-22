@@ -1,0 +1,27 @@
+{
+  "name": "shoukaku-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroScriptrix/Shoukaku-bot-test.git"
+  },
+  "author": "ZeroScriptrix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeroScriptrix/Shoukaku-bot-test/issues"
+  },
+  "homepage": "https://github.com/ZeroScriptrix/Shoukaku-bot-test#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "shoukaku": "^4.1.1"
+  }
+}
